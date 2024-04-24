@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e4f5fc+0,bfe8f9+21,9fd8ef+47,2ab0ed+82 */
+  background: #e4f5fc; /* Old browsers */
+  background: -moz-linear-gradient(
+    left,
+    rgb(233, 210, 210) 0%,
+    #ddbdbd 21%,
+    #ce9494 47%,
+    #d16d6d 82%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    left,
+    rgb(233, 210, 210) 0%,
+    #ddbdbd 21%,
+    #ce9494 47%,
+    #d16d6d 82%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to right,
+    rgb(233, 210, 210) 0%,
+    #ddbdbd 21%,
+    #ce9494 47%,
+    #d16d6d 82%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=' rgb(233, 210, 210)', endColorstr='#d16d6d',GradientType=1 ); /* IE6-9 */
+
+  height: 100vh;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 30px;
+  max-width: 700px;
+  height: 320px;
+  border: 1px solid #9c9c9c;
+  background-color: #eaeaea;
+  color: black;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+  color: black;
+}
+#login
+  .container
+  #login-row
+  #login-column
+  #login-box
+  #login-form
+  #register-link {
+  margin-top: -55 px;
+  color: black;
+}
+#my-text{
+  color:#db5252
+}
+
